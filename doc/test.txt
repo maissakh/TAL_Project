@@ -1,1 +1,8 @@
 
+Un dossier doc pour votre rapport écrit en LaTeX ou en Word et compilé en un PDF de 5 `a 7
+pages nommé nom1-nom2-nom3.pdf qui décrit votre travail. Vous y décrirez l’objectif du
+projet, les résultats d’évaluation des deux plateformes d’analyse linguistique, les points forts
+et les limitations de chaque plateforme. Si vous savez comment résoudre ces limitations,
+mentionnez-le et décrivez vos idées en les présentant comme des pistes pour un travail futur.
+Vous devez également inclure une petite section qui décrit la contribution respective de
+chaque membre du groupe. Le rapport peut être écrit en anglais ou en français.
